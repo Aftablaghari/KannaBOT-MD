@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/lampu_philips267'
 global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
+global.sgc = ''
 global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -56,21 +56,21 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '93726389649'
+global.nomorown = '923103278551'
 global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nameown = 'whyaftab'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['923103278551'],
+  [''],
+  [''],
+  ['', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = [923103278551] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -122,10 +122,11 @@ global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumb = 'https://files.catbox.moe/bbz4xm.jpg' //Main Thumbnail
+global.imagebot = 'https://files.catbox.moe/bbz4xm.jpg'
 global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
+global.thumbs = ['https://files.catbox.moe/bbz4xm.jpg', '
+                 ', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
